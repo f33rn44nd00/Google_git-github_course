@@ -1,5 +1,3 @@
-#"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"
-
 ##PART 1
 git clone "https://"$OAuth_token"@github.com/username/repo_name.git"
 
